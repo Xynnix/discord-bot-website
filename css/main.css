@@ -19,12 +19,12 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #9615DB;
+    background-color: #7288da;
 }
 
 li {
     float: right;
-    border-right:1px solid #9615DB;
+    border-right:1px solid #7288da;
 }
 
 li:last-child {
@@ -40,7 +40,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #9615DB;
+    background-color: #555759;
 }
 
 .active {
@@ -65,7 +65,7 @@ li a:hover:not(.active) {
   -webkit-border-radius: 17;
   -moz-border-radius: 17;
   border-radius: 17px;
-  font-family: Arial;
+  font-family: Arcle;
   color: #555759;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -82,7 +82,7 @@ li a:hover:not(.active) {
   text-decoration: none;
 }
 a {
-  color: white;
+  color: #555759;
   text-decoration: none; /* no underline */
 }
 body {
