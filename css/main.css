@@ -86,5 +86,8 @@ a {
   text-decoration: none; /* no underline */
 }
 body {
-  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/858353114790671670/D6D5941E4F7D52A743FF15ABD447D3717F7B61EE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
-}
+ background: url('https://steamuserimages-a.akamaihd.net/ugc/858353114790671670/D6D5941E4F7D52A743FF15ABD447D3717F7B61EE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true');
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-position: center;
+} 
