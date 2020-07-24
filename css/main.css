@@ -33,7 +33,7 @@ li:last-child {
 
 li a {
     display: block;
-    color: #555759;
+    color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -49,7 +49,7 @@ li a:hover:not(.active) {
 .synx-table {
     position: absolute;
     width: 100%;
-    color: #555759;
+    color: #FFFFFF;
     margin-top: 150px;
 }
 .synx-table {
@@ -66,7 +66,7 @@ li a:hover:not(.active) {
   -moz-border-radius: 17;
   border-radius: 17px;
   font-family: Arcle;
-  color: #555759;
+  color: #FFFFFF;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -82,7 +82,7 @@ li a:hover:not(.active) {
   text-decoration: none;
 }
 a {
-  color: #555759;
+  color: #FFFFFF;
   text-decoration: none; /* no underline */
 }
 body {
